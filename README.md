@@ -47,8 +47,7 @@ Eğitim sonrası modeller joblib ile models/ klasörüne kaydedilir.
 Test.ipynb dosyası ile test verisi üzerinden tüm modeller değerlendirilir.
 En iyi eşik değeri otomatik belirlenerek sınıflandırma yapılır.
 
-📌 Notlar
+# Not
 Bu proje sınıf 1 (arızalı) durumlarının kaçırılmamasına öncelik verir. Bu yüzden recall metriklerine öncelik verilmiştir.
-MLP modeli için StandardScaler ile ön işlem yapılmıştır.
-Kullanılan tüm kodlar özgün yazılmış, sadece sklearn, imblearn, xgboost gibi açık kaynak kütüphaneler kullanılmıştır.
+
 
