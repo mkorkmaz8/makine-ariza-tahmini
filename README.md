@@ -1,5 +1,5 @@
 # makine-ariza-tahmini
-# 🛠️ Makine Arıza Tahmini — Zaman Serisi ve ML Tabanlı Yaklaşım
+# Makine Arıza Tahmini — Zaman Serisi ve ML Tabanlı Yaklaşım
 
 Bu proje, endüstriyel makine verilerini kullanarak **makine arızası tahmini (Failure_Occurrence)** yapmayı hedefler. Zaman serisi analizleri ve makine öğrenmesi algoritmaları kullanılarak, arıza gerçekleşmeden önce uyarı sistemleri oluşturmak amaçlanmıştır.
 
