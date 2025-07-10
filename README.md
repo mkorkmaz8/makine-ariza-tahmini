@@ -47,7 +47,3 @@ Eğitim sonrası modeller joblib ile models/ klasörüne kaydedilir.
 Test.ipynb dosyası ile test verisi üzerinden tüm modeller değerlendirilir.
 En iyi eşik değeri otomatik belirlenerek sınıflandırma yapılır.
 
-# Not
-Bu proje sınıf 1 (arızalı) durumlarının kaçırılmamasına öncelik verir. Bu yüzden recall metriklerine öncelik verilmiştir.
-
-
